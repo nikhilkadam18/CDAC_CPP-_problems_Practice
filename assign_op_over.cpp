@@ -35,8 +35,8 @@ int main()
 {
 	test s1("IET");
 	test s2("IACSD");
-	test s3=s1;
-	s1=s2;
+//	test s3=s1;
+//	s1=s2;
 	s2=s1;
 	s2.display();
 }
